@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Contenedor raíz vertical: apila los elementos uno debajo de otro -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".MainActivity">
+
+    <!-- 1. Barra superior (Toolbar): sustituta moderna de la ActionBar.
+         Aquí se inyectará el título de la app y el botón de ordenar (main_menu.xml) -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lista de Alumnos"
+        android:textSize="25sp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:textAlignment="center"/>
+    <!-- 2. Lista de jugadores: con height="0dp" y weight="1" le decimos a Android
+         que ocupeTODO el espacio vertical que sobre entre la Toolbar y el botón inferior -->
+    <ListView
+        android:id="@+id/listViewJugadores"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        />
+
+
+</LinearLayout>
