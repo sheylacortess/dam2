@@ -1,0 +1,16 @@
+C:\Users\alumno\source\repos\ControladorDeEventos\bin\Debug\net8.0-windows\ControladorDeEventos.exe
+C:\Users\alumno\source\repos\ControladorDeEventos\bin\Debug\net8.0-windows\ControladorDeEventos.deps.json
+C:\Users\alumno\source\repos\ControladorDeEventos\bin\Debug\net8.0-windows\ControladorDeEventos.runtimeconfig.json
+C:\Users\alumno\source\repos\ControladorDeEventos\bin\Debug\net8.0-windows\ControladorDeEventos.dll
+C:\Users\alumno\source\repos\ControladorDeEventos\bin\Debug\net8.0-windows\ControladorDeEventos.pdb
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.Form1.resources
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.csproj.GenerateResource.cache
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.AssemblyInfoInputs.cache
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.AssemblyInfo.cs
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.csproj.CoreCompileInputs.cache
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.dll
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\refint\ControladorDeEventos.dll
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.pdb
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ControladorDeEventos.genruntimeconfig.cache
+C:\Users\alumno\source\repos\ControladorDeEventos\obj\Debug\net8.0-windows\ref\ControladorDeEventos.dll
