@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://10.1.0.100/profesores/carlos/conectoresSQL/
+HostUrl=http://10.1.0.100/profesores/carlos/conectoresSQL/mysql-connector-java-8.0.25.jar
